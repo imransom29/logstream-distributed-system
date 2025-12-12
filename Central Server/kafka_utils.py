@@ -2,6 +2,7 @@
 from kafka import KafkaProducer, KafkaConsumer
 import json
 from datetime import datetime
+
 import threading
 from typing import Callable, Optional
 import logging
