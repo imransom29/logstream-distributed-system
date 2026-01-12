@@ -2,8 +2,14 @@
 
 ## Project Overview
 
+
 <p align="center">
-    <video src="[your_video_url.mp4](https://github.com/user-attachments/assets/cf2fa71b-da97-4614-81ff-91ad786786ee)">
+  <video src="[your_video_url.mp4](https://github.com/user-attachments/assets/cf2fa71b-da97-4614-81ff-91ad786786ee)" width=400/>
+<p/>
+
+    
+<p align="center">
+    <video src="">
   </video>
 </p>
 
