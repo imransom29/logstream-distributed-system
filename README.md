@@ -8,6 +8,10 @@ Effective log management is crucial for operational excellence in a microservice
 ![image](https://github.com/user-attachments/assets/60db1e53-cc5f-47db-b429-680677d1f3d8)
 
 
+
+https://github.com/user-attachments/assets/6c541746-5a45-4463-931f-70090d6c587a
+
+
 ### Components
 
 1. **Microservices(Process):** Represent distributed nodes that independently generate logs and send heartbeat signals to monitor their status.
